@@ -48,3 +48,9 @@ Excel-Report-Generator/
     ├── 02_dashboard.png
     ├── 03_visualizations.png
     └── 04_excel_report.png
+
+## 📄 Project Report
+
+The complete internship project report is available here:
+
+[Download Project Report](reports/Excel_Report_Generator_Internship_Report.pdf)
