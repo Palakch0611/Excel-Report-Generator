@@ -1,0 +1,13 @@
+Date,Product,Category,Region,Quantity,Unit_Price
+2026-01-05,Laptop,Electronics,North,2,55000
+2026-01-08,Mouse,Accessories,South,10,800
+2026-01-12,Keyboard,Accessories,East,6,1500
+2026-01-18,Monitor,Electronics,West,3,12000
+2026-02-02,Laptop,Electronics,South,1,55000
+2026-02-10,Mouse,Accessories,North,15,800
+2026-02-15,Keyboard,Accessories,West,8,1500
+2026-02-22,Monitor,Electronics,East,4,12000
+2026-03-03,Laptop,Electronics,East,2,55000
+2026-03-11,Mouse,Accessories,West,12,800
+2026-03-17,Keyboard,Accessories,North,7,1500
+2026-03-25,Monitor,Electronics,South,5,12000
