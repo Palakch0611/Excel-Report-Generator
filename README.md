@@ -48,7 +48,8 @@ Excel-Report-Generator/
     ├── 02_dashboard.png
     ├── 03_visualizations.png
     └── 04_excel_report.png
-    ```
+    
+```    
 
 ## 📄 Project Report
 
